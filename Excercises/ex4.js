@@ -6,6 +6,11 @@ how to do it:
 2. create a variable that stores the inverted string
 3. create a loop that loops through the string and stores the characters in the variable.
 4. return the inverted string
+
+example:
+input: 'awaken'
+output: 'nekawa'
+
 */
 
 function invertString(string){
